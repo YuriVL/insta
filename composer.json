@@ -1,0 +1,7 @@
+{
+    "require": {
+        "raiym/instagram-php-scraper": "^0.9.14",
+        "chillerlan/php-cache": "^3.1",
+        "kartik-v/bootstrap-fileinput": "dev-master"
+    }
+}
